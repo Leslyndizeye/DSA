@@ -14,7 +14,6 @@ The main function `process_file(input_file_path, output_file_path)` performs the
 
 ## Usage
 
-```python
 from process_file import process_file
 
 # Example usage
@@ -30,6 +29,5 @@ Replace `"small_sample_input_02.txt_result.txt"` and `"small_sample_input_02.txt
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Feel free to modify it according to your specific project details and preferences!
