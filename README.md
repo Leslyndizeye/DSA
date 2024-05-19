@@ -1,6 +1,3 @@
-Certainly! Here's the code snippet for your README:
-
-```markdown
 # Integer Processing Utility
 
 This Python utility script `process_file.py` is designed to read a file containing integers, process them, and write the unique integers within a certain range to an output file.
@@ -23,7 +20,6 @@ from process_file import process_file
 # Example usage
 sorted_integers = process_file("small_sample_input_02.txt_result.txt", "small_sample_input_02.txt")
 print("Sorted integers:", sorted_integers)
-```
 
 Replace `"small_sample_input_02.txt_result.txt"` and `"small_sample_input_02.txt"` with the actual file paths you want to use.
 
